@@ -8,9 +8,19 @@
 <channel><name>Canales Nacionales de Costa Rica</name><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/500px-Flag_of_Costa_Rica_%28state%29.svg.png</thumbnail>
 <items>
   <item>
+    <title>1 Canal Uno</title>
+    <link>rtmp://4.30.20.151/canalunos2/ playpath=canalunos2 swfUrl="http://television.en.cr/files/jw-player-plugin-for.-wordpress/player/player.swf" swfVfy=true live=true timeout=10</link>
+    <thumbnail>http://static-cdn.jtvnw.net/jtv_user_pictures/canalunopositivo-profile_image-56e3d4efeb10e87b-300x300.jpeg</thumbnail>
+  </item>
+  <item>
     <title>2 Canal Dos</title>
     <link>rtmp://r72.letio.com/live/tv7734/ playpath=main swfUrl="http://www.letio.com/mp/miniRadio.swf" swfVfy=true live=true timeout=10</link>
     <thumbnail>http://www.cdr.cr/sites/all/themes/cdrPlayers/images/canal2-logo.png</thumbnail>
+  </item>
+  <item>
+    <title>4 Canal Cuatro Repretel</title>
+    <link>rtmp://r72.letio.com/live/tv7786/ playpath=main swfUrl="http://www.letio.com/mp/miniRadio.swf" swfVfy=true live=true timeout=10</link>
+    <thumbnail>http://www.repretel.com/sites/all/themes/repretel/images/backgrounds/4.jpg</thumbnail>
   </item>
   <item>
     <title>6 Canal Seis Repretel</title>
@@ -25,7 +35,27 @@
   <item>
     <title>9 Canal Nueve</title>
     <link>rtmp://extondemand.livestream.com/ondemand app="ondemand" swfUrl="http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf" playpath=trans/dv15/mogulus-user-files/chcanal9hd/2012/06/18/b2070b46-ad1b-4c26-83b4-b27b14c85c8f pageUrl="http://www.livestream.com/canal9hd" swfVfy=true live=true timeout=10 flashver=WIN 11,1,102,55</link>
-    <thumbnail>http://www.canal9.cr/website/wp-content/themes/canal9/images/backgrounds/style5/bg-main.jpg</thumbnail>
+    <thumbnail>http://profile.ak.fbcdn.net/hprofile-ak-prn1/c0.10.180.180/s160x160/644131_502189646471952_151674204_a.png</thumbnail>
+  </item>
+  <item>
+    <title>11 Canal Once Repretel</title>
+    <link>rtmp://r72.letio.com/live/tv7526/ playpath=main swfUrl="http://www.letio.com/mp/miniRadio.swf" swfVfy=true live=true timeout=10</link>
+    <thumbnail>http://www.repretel.com/sites/all/themes/repretel/images/backgrounds/11.jpg</thumbnail>
+  </item>
+  <item>
+    <title>13 Sinart</title>
+    <link>rtmp://stream01.cyberfuel.com/SinartCanal13/ playpath=livestream swfUrl="http://www.sinart.go.cr/canal13/sinart_video_ca.nal13_480x360.swf" pageUrl="http://www.sinart.go.cr" swfVfy=true live=true timeout=10 </link>
+    <thumbnail>http://www.sinart.go.cr/images/c13-envivo-anim.gif</thumbnail>
+  </item>
+  <item>
+    <title>15 UCR</title>
+    <link>rtmp://163.178.8.133/oflaDemo/ playpath=canal15envivo swfUrl="http://www.canal15.ucr.ac.cr/js/player.swf" pageUrl="http://www.sinart.go.cr" swfVfy=true live=true timeout=10 </link>
+    <thumbnail>http://www.canal15.ucr.ac.cr/img/dummies/envivo.jpg</thumbnail>
+  </item>
+  <item>
+    <title>29 VM Latino</title>
+    <link>rtmp://rtmp.vmtv.tv:1935/vmlatino playpath=vmlatino swfUrl="http://television.en.cr/files/jw-player-plugin-for-w.ordpress/player/player.swf" pageUrl="http://television.en.cr" swfVfy=true live=true timeout=10 </link>
+    <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vm_latino_canal29.jpg</thumbnail>
   </item>
 </items>
 </channel>
