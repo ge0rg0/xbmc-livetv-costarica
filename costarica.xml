@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+   <!-- Stream de Canales Nacionales de Costa Rica. -->
+   <!-- Este xml puede ser usado con xbmc -->
+   <!-- y el addon Live TV http://www.xbmchub.com/blog/download/41/ -->
+   <!-- Autor: ge0rg0                     -->
+ 
+<channels>
+<channel><name>Canales Nacionales de Costa Rica</name><thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/500px-Flag_of_Costa_Rica_%28state%29.svg.png</thumbnail>
+<items>
+  <item>
+    <title>2 Canal Dos</title>
+    <link>rtmp://r72.letio.com/live/tv7734/ playpath=main swfUrl="http://www.letio.com/mp/miniRadio.swf" swfVfy=true live=true timeout=10</link>
+    <thumbnail>http://www.cdr.cr/sites/all/themes/cdrPlayers/images/canal2-logo.png</thumbnail>
+  </item>
+  <item>
+    <title>6 Canal Seis Repretel</title>
+    <link>rtmp://r72.letio.com/live/tv7528/ playpath=main swfUrl="http://www.letio.com/mp/miniRadio.swf" swfVfy=true live=true timeout=10</link>
+    <thumbnail>http://www.repretel.com/sites/all/themes/repretel/images/backgrounds/6.jpg</thumbnail>
+  </item>
+  <item>
+    <title>7 Teletica</title>
+    <link>rtmp://cp80979.live.edgefcs.net/live/ playpath=teletica2@4265 swfUrl="http://www.freeetv.com/modules/Video_Stream/plugins/akaim/liveplayer.swf" swfVfy=true live=true timeout=10</link>
+    <thumbnail>http://www.telenoticias7.com/img/apariencia/bg_telenoticias.png</thumbnail>
+  </item>
+  <item>
+    <title>9 Canal Nueve</title>
+    <link>rtmp://extondemand.livestream.com/ondemand app="ondemand" swfUrl="http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf" playpath=trans/dv15/mogulus-user-files/chcanal9hd/2012/06/18/b2070b46-ad1b-4c26-83b4-b27b14c85c8f pageUrl="http://www.livestream.com/canal9hd" swfVfy=true live=true timeout=10 flashver=WIN 11,1,102,55</link>
+    <thumbnail>http://www.canal9.cr/website/wp-content/themes/canal9/images/backgrounds/style5/bg-main.jpg</thumbnail>
+  </item>
+</items>
+</channel>
+</channels>
