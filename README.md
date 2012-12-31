@@ -3,6 +3,11 @@ xbmc-livetv-costarica
 Stream de Canales Nacionales de Costa Rica. Este xml puede ser usado con XBMC
 y el addon Live TV http://www.xbmchub.com/blog/download/41/ 
 
+Uso
+----------------
+En la configuracion de LiveTV agregue en Other Sources el url
+https://raw.github.com/ge0rg0/xbmc-livetv-costarica/master/costarica.xml
+
 LICENSE:
 ================
 
